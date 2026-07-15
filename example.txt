@@ -1,0 +1,11 @@
+[INFO] User logged in
+[INFO] File uploaded
+[WARNING] Low disk space
+[ERROR] Database connection failed
+[INFO] Password changed
+[ERROR] Invalid credentials
+[WARNING] High memory usage
+[INFO] User logged out
+[DEBUG] Cache refreshed
+[SUCCESS] Payment completed
+[FATAL] System crashed
