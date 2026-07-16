@@ -1,6 +1,6 @@
-# Log Analyzer
+# Log Analyzer [First Project]
 
-A Python command-line application to analyze log files.
+A Python command-line application to analyze log files.I Build it using A Mobile in Pydriod 3 code editor.It was a good practice feels like i actually, build something even if it's on Common Topic but soon I'll create Something Impressive. And I learn alot, Peace✌️Out
 
 ## Features
 
