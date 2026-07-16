@@ -27,7 +27,8 @@ A Python command-line application to analyze log files.
 ## How to Run
 
 1. Place your log file in the project folder.
-2. Run:
+2. Open a Terminal in Project Folder
+3. Run :
 
 ```bash
 python LogAnalyse.py
